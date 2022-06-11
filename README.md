@@ -1,6 +1,6 @@
 # EfficientNet-CIFAR10
-Kyungpook National University
-Electronics Engineering 
-2022221245, KwanWoo Park
+Kyungpook National University\n
+Electronics Engineering \n
+2022221245, KwanWoo Park\n\n
 
 Accuracy 90.37
